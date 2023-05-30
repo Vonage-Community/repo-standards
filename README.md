@@ -11,8 +11,9 @@ This project contains checklists, templates and other resources to include with 
 Historically, we have had a number of GitHub orgs:
 
 - `vonage` Our libraries, code snippet repos and other formally supported projects go here.
-- `nexmo` Many useful tools and demos can be found in this org, but since the rebrand we typically don't create new projects in this area.
-- `nexmo-community` The community repo where we put sample apps, blog post examples, and other assorted items (things can be promoted into the main repo at a later date if widely adopted).
+- `nexmo` Many useful older tools and demos can be found in this org, but since the rebrand we typically don't create new projects in this area.
+- `vonage-community` The community repo where we put sample apps, blog post examples, and other assorted items (things can be promoted into the main repo at a later date if widely adopted).
+- `nexmo-community` The older Nexmo-branded community repo
 - `opentok` This is where our libraries, server SDKs and officially supported repos live. You can filter out "labs" projects using the "opentok-labs" topic.
 - `opentok-community` The community repo where we put OpenTok related sample apps, blog post examples, and other assorted items (things can be promoted into the main repo at a later date if widely adopted).
 
@@ -24,7 +25,7 @@ Naming things is hard, this part is very important! Best practice: name the proj
 
 - [ ] Give your repo **a description** and **some topics** - you can set these at the very top of the web interface, before the file listings. The description should cover the purpose and scope of the project. The tags should include `vonage` as well as the technologies used and the features of the project. For example you could have tags: `vonage` `python` `redis` `verify` `2fa`.
 
-- [ ] Every repo must have a **license**, this will be [MIT](https://opensource.org/licenses/MIT) in most cases. See also: [GitHub docs for adding a license to your repo](https://help.github.com/en/articles/adding-a-license-to-a-repository) and always choose a standard OSI-approved license.
+- [ ] Every repo must have a **license**, this will be [Apache 2.0]([https://opensource.org/licenses/MIT](https://www.apache.org/licenses/LICENSE-2.0.txt)) in most cases. See also: [GitHub docs for adding a license to your repo](https://help.github.com/en/articles/adding-a-license-to-a-repository) and always choose a standard OSI-approved license.
 
 - [ ] Use the [basic README template](basic-readme-template.md) as a starting point for your repository. Look at the [project types](#what-type-of-project) section for what else to include for your project.
 
