@@ -4,6 +4,6 @@ For Heroku, we have this buildpack: <https://github.com/nexmo-community/heroku-b
 
 Please see this demo <https://github.com/nexmo-community/click2call> for an example of implementation.
 
-We also add http://nexmo.dev links to deploys to help us to track use.
+We also add http://vonage.dev links to deploys to help us to track use.
 
 
