@@ -11,11 +11,8 @@ This project contains checklists, templates and other resources to include with 
 Historically, we have had a number of GitHub orgs:
 
 - `vonage` Our libraries, code snippet repos and other formally supported projects go here.
-- `nexmo` Many useful older tools and demos can be found in this org, but since the rebrand we typically don't create new projects in this area.
 - `vonage-community` The community repo where we put sample apps, blog post examples, and other assorted items (things can be promoted into the main repo at a later date if widely adopted).
-- `nexmo-community` The older Nexmo-branded community repo
 - `opentok` This is where our libraries, server SDKs and officially supported repos live. You can filter out "labs" projects using the "opentok-labs" topic.
-- `opentok-community` The community repo where we put OpenTok related sample apps, blog post examples, and other assorted items (things can be promoted into the main repo at a later date if widely adopted).
 
 If you're not sure where something goes, or you don't have permission to create a repo, talk to us in `#ask-devrel` on slack.
 
